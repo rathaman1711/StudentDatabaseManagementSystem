@@ -3,7 +3,7 @@ This is a sophomore project of Data Base Management System made using Python and
 In this student database management system we can add, delete,update,view and clear existing records from the database.
 Here Student ID acts as the PRIMARY KEY and we store Student name,age,gender,address and mobile number.
 </br>
-![IMAGE](student_gui.png)
+![IMAGE](https://github.com/rathaman1711/StudentDatabaseManagementSystem/blob/master/Student_gui.png)
 </br>
 Here Add new- Adds new informtion related to student.
 Clear- clears the entry box for new entries.
